@@ -21,9 +21,9 @@
 
 ## 📱 Screenshots
 
-| Android | iOS |
-| :---: | :---: |
-| ![Android Screenshot](images/android_screenshot.png) | ![iOS Screenshot](images/ios_screenshot.png) |
+|                  Android                  |                iOS                |
+|:-----------------------------------------:|:---------------------------------:|
+| ![Android Screenshot](images/android.png) | ![iOS Screenshot](images/ios.png) |
 
 *To add your screenshots, place them in the `images` folder in the root and name them `android_screenshot.png` and `ios_screenshot.png`.*
 
