@@ -25,8 +25,6 @@
 |:-----------------------------------------:|:---------------------------------:|
 | ![Android Screenshot](images/android.png) | ![iOS Screenshot](images/IOS.png) |
 
-*To add your screenshots, place them in the `images` folder in the root and name them `android_screenshot.png` and `ios_screenshot.png`.*
-
 ## 🕹️ How to Play
 
 1.  **Think of a yes/no question.** (The more mysterious, the better!)
