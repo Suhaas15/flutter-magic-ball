@@ -1,7 +1,7 @@
 # 🎱 Magic 8 Ball 🎱
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aDczpC2i2V1vR5e/giphy.gif" width="150">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRndndwamNlNjRzNGl4aXBqdzAydTRvY2k1ZDMydGZ4OTJ5cW5wOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wC0ERZjnn5miiqrGfF/giphy.gif" width="150">
 </p>
 
 <p align="center">
